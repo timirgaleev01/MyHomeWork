@@ -16,5 +16,9 @@ public class Main {
             System.out.println("My name " + name2 + " " + surname2 + "and I'm " + age2 + "years oldd");
         }
 
+        for (int i = 0; i < 4; i++) {
+            System.out.println("hello! have are you?");
+        }
+
     }
 }
