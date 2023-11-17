@@ -20,5 +20,11 @@ public class Main {
             System.out.println("hello! have are you?");
         }
 
+        int a = 3029;
+        int b = 4444;
+        int c = 2;
+        int e = a*c+b;
+        System.out.println(e);
+
     }
 }
